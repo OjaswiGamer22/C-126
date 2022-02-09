@@ -1,0 +1,30 @@
+body{
+    background-image: url("DJ-Marshmello-DJ-Neon-Live-4K-2208x1242.jpg");
+    background-position: center;
+}
+
+#heading1{
+    width:100%;
+    font-size:x-large;
+    margin-top:0px;
+    line-height:2;
+    font-family: 'Redressed', cursive;
+}
+
+#heading2{
+    font-size: small;
+    color:black;
+}
+
+#dj1{
+    float:left;
+}
+
+#dj2{
+    float:right;
+}
+
+img{
+    height:150px;
+    border-radius: 150px; 
+}
